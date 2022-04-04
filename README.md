@@ -7,3 +7,7 @@
 
 
 [Talking Ben](https://sussygamedeveloper.github.io/Scratch-Pr0jects/Talking%20Ben.html)
+
+
+
+[Obama Simulator](https://sussygamedeveloper.github.io/Scratch-Pr0jects/obama%20simulator.html)
